@@ -15,8 +15,8 @@ The unofficial UCF Astronomy Discord Bot is a simple Discord bot built with Disc
 
 ## Setup
 
-1. **Create an Account on Astrology API:**
-    - Go to the [Astrology API](https://astronomyapi.com/) website.
+1. **Create an Account on Astronomy API:**
+    - Go to the [Astronomy API](https://astronomyapi.com/) website.
     - Create an account and log in.
 
 2. **Create an Application:**
